@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  color: white;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+@font-face {
+  font-family: playpen;
+  src: url(./assets/arabic-font/PlaypenSansArabic-VariableFont_wght.ttf);
+}
