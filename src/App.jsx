@@ -29,7 +29,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "https://api.openweathermap.org/data/2.5/weather?lat=28.00&lon=3.00&appid=fb4ac1ce5f44c1e6b9f542013d86edd1&units=metric"
+        "https://api.openweathermap.org/data/2.5/weather?lat=28.00&lon=3.00&appid={ur api key}&units=metric"
 
         // cancelToken: new axios.CancelToken((c) => {
         //   cancelToken = c;
