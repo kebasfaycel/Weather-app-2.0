@@ -14,6 +14,8 @@ A clean, ultra-lightweight weather app built with **Vite + React** using **OpenW
 - **Clean setup** with Vite for blazing-fast dev experience
 
 ---
+## Preview 
+![Alt text](./src/assets/ar.png)
 
 ##  Tech Stack
 
